@@ -9,7 +9,7 @@ Epoch: 1
 Version: 2.9
 Release: 2%{?dist}.bz1703745
 License: BSD
-Source0: http://w1.fi/releases/%{name}-%{version}%{rcver}%{snapshot}.tar.gz
+Source0: https://w1.fi/releases/%{name}-%{version}%{rcver}%{snapshot}.tar.gz
 Source1: build-config
 Source2: %{name}.conf
 Source3: %{name}.service
